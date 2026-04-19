@@ -1,2 +1,2 @@
-# Salt-of-the-Earth-Behavorial
+# Salt-of-the-Earth-Behavioral
 Website for Salt of the Earth Behavorial LLC
