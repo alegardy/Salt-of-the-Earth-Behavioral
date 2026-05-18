@@ -92,6 +92,10 @@ body {
   font-size: 24px;
 }
 
+#Goals {
+  color: #d49752;
+}
+
 .alt {
   background: #efe6da;
 }
